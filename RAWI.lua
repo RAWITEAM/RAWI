@@ -279,7 +279,7 @@ function Rutba(user_id,chat_id)
 if tonumber(user_id) == tonumber(854117788) then  
 var = 'Telegram Developer'
 elseif tonumber(user_id) == tonumber(887280994) then
-var = 'مبرمجه السورس'
+var = 'مطوره التليكرام'
 elseif tonumber(user_id) == tonumber(1033028167) then
 var = 'Telegram Developer'
 elseif tonumber(user_id) == tonumber(SUDO) then
@@ -9833,7 +9833,7 @@ local List = {
 𓄼🇮🇶 𝑺𝒕𝒂𝒔𝒕 :#stast 
 𓄼🇮🇶 𝒊𝒅 :#id 
 𓄼🇮🇶 𝑮𝒂𝒎𝒆𝑺 :#game 
-𓄼🇮🇶 𝑴𝒔𝒈𝒔 :#msgs
+𓄼🇮🇶 𝑴𝒔𝒈?? :#msgs
 ]],
 [[
 ❤️|-وف اتفاعل يحلو😍🙈
